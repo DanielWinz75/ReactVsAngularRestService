@@ -1,0 +1,19 @@
+{
+    "Milch": {
+        "anzahl": "2",
+        "supermarkt": "Rewe"
+    },
+    "Butter": {
+        "anzahl": "1"
+    },
+    "Sahne": {
+        "anzahl": "1"
+    },
+    "Grapefruits": {
+        "anzahl": "5",
+        "supermarkt": "Wochenmarkt"
+    },
+    "Kartoffeln": {
+        "menge": "1kg"
+    }
+}
